@@ -1,0 +1,53 @@
+{
+"j_greedy_joker":
+    {
+    "blueprint_compat": true,
+    "config":
+        {
+        "extra":
+            {
+            "s_mult": 4,
+            "suit": "Diamonds"
+            }
+        },
+    "cost": 5,
+    "cost_mult": 1.0,
+    "discovered": false,
+    "effect": "Suit Mult",
+    "eternal_compat": true,
+    "name": "Greedy Joker",
+    "order": 2,
+    "pos":
+        {
+        "x": 6,
+        "y": 1
+        },
+    "rarity": 1,
+    "set": "Joker",
+    "unlocked": true
+    },
+"j_joker":
+    {
+    "blueprint_compat": true,
+    "config":
+        {
+        "mult": 4
+        },
+    "cost": 2,
+    "cost_mult": 1.0,
+    "discovered": true,
+    "effect": "Mult",
+    "eternal_compat": true,
+    "name": "Joker",
+    "order": 1,
+    "pos":
+        {
+        "x": 0,
+        "y": 0
+        },
+    "rarity": 1,
+    "set": "Joker",
+    "start_alerted": true,
+    "unlocked": true
+    }
+}
